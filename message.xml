@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="woman">You make a fortune!</Say>
-    <Record maxLength="20" />
+    <Say voice="woman" language="en" loop="2">You made a fortune!</Say>
 </Response>
